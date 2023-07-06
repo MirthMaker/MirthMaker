@@ -1,7 +1,7 @@
 Hi, I’m AJ.
 - I’m interested in **Full Stack, Front-End, and Back-End Software Development**
 - 🌱 I’m currently learning Full Stack Development through the creation of an interactive personal portfolio website
-- 💞️ I’m looking for Software Development Internships for the Summer of 2023!
+- 💞️ Currently working as a Game Product Intern at SayKid
 - 📫 The best way to reach me right now would be my email address: amariuslesure@hotmail.com
 
 <!---
